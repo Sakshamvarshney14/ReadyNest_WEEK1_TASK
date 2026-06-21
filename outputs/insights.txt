@@ -1,0 +1,48 @@
+
+AUTOMATED DATA ANALYSIS REPORT
+
+Rows Processed: 38092
+
+Columns Processed: 36
+
+Duplicates Removed:
+200
+
+Constant Columns Removed:
+1
+
+Mostly Null Columns Removed:
+1
+
+Numeric Columns:
+31
+
+Categorical Columns:
+3
+
+KEY INSIGHTS
+
+1. Dataset successfully cleaned and standardized.
+
+2. Missing values handled automatically.
+
+3. Strong correlations identified among climate indicators.
+
+4. Temperature patterns vary across time.
+
+5. Statistical summaries generated for all numeric features.
+
+
+TOP CORRELATIONS
+
+('Max_Temp', 'Temp_Range') : 0.832
+('Min_Temp', 'Temp_Range') : 0.559
+('Land_Temp', 'Ocean_Salinity') : 0.017
+('Ocean_Salinity', 'Glacier_Mass_Balance') : 0.017
+('Min_Temp', 'Seasonal_Avg_Temp') : 0.015
+('Latitude', 'Ozone_Concentration') : 0.013
+('Month', 'Seasonal_Avg_Temp') : 0.013
+('Night_Temp', 'CO2_Concentration') : 0.013
+('Min_Temp', 'Relative_Humidity') : 0.013
+('Ocean_Temp', 'Night_Temp') : 0.013
+

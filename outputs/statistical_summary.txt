@@ -1,0 +1,279 @@
+
+COLUMN: Year
+Count: 37892
+Mean: 1961.36
+Median: 1961.00
+Std Dev: 35.75
+Variance: 1278.08
+Min: 1900.00
+Max: 2023.00
+
+COLUMN: Month
+Count: 37892
+Mean: 6.54
+Median: 7.00
+Std Dev: 3.43
+Variance: 11.76
+Min: 1.00
+Max: 12.00
+
+COLUMN: Latitude
+Count: 37892
+Mean: 0.17
+Median: 0.53
+Std Dev: 51.79
+Variance: 2682.36
+Min: -90.00
+Max: 89.99
+
+COLUMN: Longitude
+Count: 37892
+Mean: -0.41
+Median: 0.15
+Std Dev: 104.24
+Variance: 10866.99
+Min: -179.99
+Max: 180.00
+
+COLUMN: Avg_Surface_Temp
+Count: 37892
+Mean: 14.00
+Median: 14.00
+Std Dev: 1.97
+Variance: 3.89
+Min: 6.00
+Max: 22.40
+
+COLUMN: Max_Temp
+Count: 37892
+Mean: 20.00
+Median: 19.99
+Std Dev: 2.99
+Variance: 8.95
+Min: 8.62
+Max: 33.69
+
+COLUMN: Min_Temp
+Count: 37892
+Mean: 7.99
+Median: 8.00
+Std Dev: 2.00
+Variance: 4.01
+Min: -0.75
+Max: 15.56
+
+COLUMN: Land_Temp
+Count: 37892
+Mean: 13.00
+Median: 13.01
+Std Dev: 1.99
+Variance: 3.97
+Min: 4.17
+Max: 20.73
+
+COLUMN: Ocean_Temp
+Count: 37892
+Mean: 15.00
+Median: 14.99
+Std Dev: 1.50
+Variance: 2.25
+Min: 8.39
+Max: 21.33
+
+COLUMN: Night_Temp
+Count: 37892
+Mean: 9.99
+Median: 9.98
+Std Dev: 2.00
+Variance: 4.01
+Min: 1.50
+Max: 17.76
+
+COLUMN: Day_Temp
+Count: 37892
+Mean: 18.00
+Median: 18.01
+Std Dev: 2.51
+Variance: 6.30
+Min: 7.99
+Max: 27.80
+
+COLUMN: Seasonal_Avg_Temp
+Count: 37892
+Mean: 14.01
+Median: 14.02
+Std Dev: 1.80
+Variance: 3.24
+Min: 6.24
+Max: 20.78
+
+COLUMN: Temp_Range
+Count: 37892
+Mean: 12.01
+Median: 12.01
+Std Dev: 3.61
+Variance: 13.01
+Min: -2.38
+Max: 28.04
+
+COLUMN: Temp_Std_Dev
+Count: 37892
+Mean: 1.75
+Median: 1.74
+Std Dev: 0.72
+Variance: 0.52
+Min: 0.50
+Max: 3.00
+
+COLUMN: CO2_Concentration
+Count: 37892
+Mean: 379.83
+Median: 379.90
+Std Dev: 19.69
+Variance: 387.60
+Min: 300.33
+Max: 460.39
+
+COLUMN: Methane_Level
+Count: 37892
+Mean: 1799.88
+Median: 1799.95
+Std Dev: 99.97
+Variance: 9994.74
+Min: 1377.28
+Max: 2210.10
+
+COLUMN: Nitrous_Oxide_Level
+Count: 37892
+Mean: 320.01
+Median: 320.04
+Std Dev: 10.07
+Variance: 101.33
+Min: 281.84
+Max: 361.53
+
+COLUMN: Ozone_Concentration
+Count: 37892
+Mean: 299.73
+Median: 299.74
+Std Dev: 30.00
+Variance: 899.83
+Min: 176.35
+Max: 440.37
+
+COLUMN: Aerosol_Index
+Count: 37892
+Mean: 0.50
+Median: 0.50
+Std Dev: 0.29
+Variance: 0.08
+Min: 0.00
+Max: 1.00
+
+COLUMN: Sea_Surface_Temp
+Count: 37892
+Mean: 16.01
+Median: 16.02
+Std Dev: 1.47
+Variance: 2.17
+Min: 9.52
+Max: 22.47
+
+COLUMN: Ocean_Heat_Content
+Count: 37892
+Mean: 200.22
+Median: 200.36
+Std Dev: 30.02
+Variance: 901.04
+Min: 70.42
+Max: 328.70
+
+COLUMN: Sea_Level_Rise
+Count: 37892
+Mean: 3.00
+Median: 2.99
+Std Dev: 0.50
+Variance: 0.25
+Min: 0.93
+Max: 4.99
+
+COLUMN: Ocean_Salinity
+Count: 37892
+Mean: 35.00
+Median: 35.00
+Std Dev: 0.50
+Variance: 0.25
+Min: 33.06
+Max: 36.93
+
+COLUMN: Ocean_Current_Speed
+Count: 37892
+Mean: 1.50
+Median: 1.50
+Std Dev: 0.87
+Variance: 0.76
+Min: 0.00
+Max: 3.00
+
+COLUMN: Arctic_Ice_Extent
+Count: 37892
+Mean: 5.99
+Median: 5.99
+Std Dev: 1.00
+Variance: 1.00
+Min: 2.07
+Max: 9.58
+
+COLUMN: Antarctic_Ice_Extent
+Count: 37892
+Mean: 12.00
+Median: 12.00
+Std Dev: 2.00
+Variance: 4.00
+Min: 4.40
+Max: 19.93
+
+COLUMN: Glacier_Mass_Balance
+Count: 37892
+Mean: -0.50
+Median: -0.50
+Std Dev: 0.30
+Variance: 0.09
+Min: -1.88
+Max: 0.88
+
+COLUMN: Snow_Cover_Area
+Count: 37892
+Mean: 24.93
+Median: 24.94
+Std Dev: 4.98
+Variance: 24.85
+Min: 4.76
+Max: 45.72
+
+COLUMN: Atmospheric_Pressure
+Count: 37892
+Mean: 1013.00
+Median: 1013.03
+Std Dev: 9.95
+Variance: 99.06
+Min: 973.06
+Max: 1052.42
+
+COLUMN: Relative_Humidity
+Count: 37892
+Mean: 64.91
+Median: 64.90
+Std Dev: 19.80
+Variance: 391.93
+Min: 30.00
+Max: 100.00
+
+COLUMN: Station_ID
+Count: 37892
+Mean: 18946.50
+Median: 18946.50
+Std Dev: 10938.62
+Variance: 119653463.00
+Min: 1.00
+Max: 37892.00
